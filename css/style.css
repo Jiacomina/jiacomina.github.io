@@ -279,6 +279,11 @@ ul{
   width: 90%;
   border: 1px solid #E1E1E1;
 }
+.project4{
+  content:url("https://github.com/Jiacomina/wikiViewer/raw/master/cropped.png");
+  width: 90%;
+  border: 1px solid #E1E1E1;
+}
 .portfolio-gallery{
   padding-top: 3%;
   text-align: left;
