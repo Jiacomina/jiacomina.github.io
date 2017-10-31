@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "J",
+		"selected_items":
+		[
+			[
+				"J",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"bracketHighlighter",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Presets"
+			],
+			[
+				"Preferences:Packag",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Sa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jacquie/Documents/dev/Calculator/css/style.css",
+		"/Users/Jacquie/Documents/dev/Calculator/index.html",
+		"/Users/Jacquie/Documents/dev/jiacomina.github.io/css/style.css",
+		"/Users/Jacquie/Documents/The University of Western Australia/HPC/pie.c",
+		"/Users/Jacquie/Library/Mobile Documents/com~apple~CloudDocs/UWA/CITS3402/testrowcol.c",
+		"/Users/Jacquie/Documents/dev/Simon/js/index.js",
+		"/Users/Jacquie/Documents/dev/Simon/css/style.css",
+		"/Users/Jacquie/Documents/dev/Simon/index.html",
+		"/Users/Jacquie/Documents/dev/jiacomina.github.io/js/index.js",
+		"/Users/Jacquie/Documents/dev/jiacomina.github.io/index.html",
+		"/Users/Jacquie/Documents/dev/weatherWidget/js/index.js",
+		"/Users/Jacquie/Documents/dev/weatherWidget/css/style.css",
+		"/Users/Jacquie/Documents/dev/weatherWidget/index.html",
+		"/Users/Jacquie/Documents/dev/TwitchApp/index.html",
+		"/Users/Jacquie/Documents/dev/CITS3002/ALOHA.c",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/Youtube.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/wp125.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/vFnE-dsP3mD.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/Twitter.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/tweet_button.1338995330.htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/tubepress.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/thumbs_reptiles-products.JPG",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/thumbs_new.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/thumbs_dogs-puppies-9900_1.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/thumbs_dogs-cat-food-hills.JPG",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/thumbs_budgie.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/thumbs_10075.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/t.gif",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/swfobject.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/supersleight.plugin.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/styles.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/styleBothSides.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/style(3).css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/style(2).css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/style(1).css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/style.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/small_animals.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/small-animal-products.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/shutter-reloaded.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/shr-custom-sprite.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/shutter-reloaded.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/show_ads.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/shareaholic-perf.min.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/sexy-bookmarks-public.min.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/saved_resource(2).htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/saved_resource(1).htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/saved_resource.htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/RSS.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/rs=AItRSTOgOey0Q7fDNq0KYCro0PkSfd6_Lg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/rs=AItRSTMWQv6jZUlQD4JlLmDADlyAYhYTWw",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/revolution.gif",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/reptiles.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/reptile-products.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/reddit.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/recipe.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/random.htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/quant.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/puppies.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/puppies.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/pixel.gif",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/piclens_optimized.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/paypal.gif",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/pagenavi-css.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/oven.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/ngg.slideshow.min.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/nonSecureAnonymousFramework",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/ngg.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/myStuff.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/meter.asp",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/Linkedin.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/like.htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/leaderboard_ad.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/kittens.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/jscolor.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/jquery.min(2).js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/frontline_plus.gif",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/jquery.min(1).js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/jquery.min.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/jquery.cycle.all.min.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/in.php",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/heartgaurd_plus.gif",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/gallery.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/ga.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/fish.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/fastbutton.htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/Facebook.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/ebaylogo.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/dog-products.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/diggdigg-style.css",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/diggdigg-normal-bar.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/data.htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/counter.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/count.json",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/comment-reply.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/cb=gapi.loaded_0",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/cat-products.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/button2.htm",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/button(1).js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/button.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/brand",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/bootstrap.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/birds.png",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/bird-products.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/beacon.js",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/banner_ad.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/australia-post-logo.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/aquarium-products.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/animal-captcha.php",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120616-044533.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120616-111929.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-200702.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-200353.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-200315.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-200052.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-195606.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-195008.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-194518.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-194325.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-193842.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/20120615-020226.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/19700627-110301.jpg",
+		"/Volumes/Jacquie-1/Dog - Charlie/petcity advert complete/Pet City WA - Pet City Now has 9 Pet Stores in WA_files.txt/125_ad.jpg",
+		"/Users/Jacquie/Documents/dev/CITS3002-ProjectOrig/Miner/src/core/Miner.java",
+		"/Users/Jacquie/Documents/dev/CITS3002-ProjectOrig/Miner/src/core/main.java",
+		"/Users/Jacquie/Documents/dev/CITS3002-ProjectOrig/Miner/src/core/Base58Check.java",
+		"/Users/Jacquie/Documents/dev/CITS3002-ProjectOrig/Miner/src/core/Transaction.java",
+		"/Users/Jacquie/Documents/dev/CITS3002-ProjectOrig/Miner/src/core/MinerIO.java"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 29.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 132.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
