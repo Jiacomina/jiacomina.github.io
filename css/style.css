@@ -299,10 +299,9 @@ ul{
 }
 .portfolio-gallery{
   padding-top: 3%;
-  text-align: left;
-  width: 100%;
+  text-align: center;
+  width: 80%;
   margin: 0 auto;
-  margin-left: 150px;
 }
 .portfolio-box{
   display: inline-block;
