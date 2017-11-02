@@ -2,6 +2,12 @@
 ::-webkit-scrollbar {
     display: none;
 }
+img {
+
+border: 0px !important;
+outline: 0 !important;
+
+}
 body{
   overflow-x: hidden;
   font-size: 16px;
@@ -33,16 +39,15 @@ body{
   max-height: 800px;
   background-color: white;
 }
-.right {
-  position: absolute;
-  height: 100%;
-  top: 0px;
-  width: 40vw;
-  max-height: 800px;
-  right: 0px;
-  background-image: url("https://s20.postimg.org/lr34ljx4d/image.png");
-  background-size: cover;
-  background-repeat: no-repeat;
+.right{
+    position: absolute;
+    height: 100%;
+    top: 0px;
+    width: 40vw;
+    max-height: 800px;
+    right: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .main-box {
   margin-top: 150px;
@@ -141,12 +146,16 @@ body{
 }
 .round-button{
   display: inline-block;
-  overflow: visible;
 }
 .round-button img {
     width: 20px;
     height: 20px;
     padding: 15px;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 0px;
+
 }
 .button-text {
   visibility: hidden;
@@ -163,37 +172,6 @@ body{
 .round-button:hover img{
   opacity: 0.3;
 }
-.linkedIn-button{
-  content: url("https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-1.png");
-}
-/*.linkedIn-button:hover {
-  content: url("https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-linkedin-1.png&r=168&g=193&b=240");
-}*/
-/*A8C1F0*/
-.fb-button{
-  content: url("https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-facebook-1.png");
-}
-/*.fb-button:hover {
-  content: url("https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-facebook-1.png&r=168&g=193&b=240");
-}*/
-.codePen-button{
-  content: url("https://www.shareicon.net/download/2016/11/14/852181_codepen.svg");
-}
-/*.codePen-button:hover {
-  content: url("https://cdn.worldvectorlogo.com/logos/codepen-icon.svg");
-}*/
-.gitHub-button{
-  content: url("https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-github-1.png&r=0&g=0&b=0");
-}
-/*.gitHub-button:hover{
-  content: url("https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-github-1.png&r=168&g=193&b=240");
-}*/
-.email-button{
-  content: url("https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-email-3.png");
-}
-/*.email-button:hover {
-  content: url("https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-email-3.png&r=168&g=193&b=240");
-}*/
 
 /*ABOUT ME PAGE AND PORTFOLIO PAGE*/
 .sub-page{
@@ -235,20 +213,17 @@ td:nth-child(odd) {
   padding-right: 20px;
   vertical-align: top;
 }
-.work-icon{
-  content: url("https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-pencil-10.png&r=0&g=0&b=0");
-}
+
 ul{
    list-style-type: none;
    margin-left: -40px;
  }
-.education-icon{
-  content: url("https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2017/png/iconmonstr-education-1.png&r=0&g=0&b=0");
-}
+
 .ab-icon{
   width: 20px;
   height: 20px;
   margin-top: 2px;
+  background-size: contain;
 }
 .grey-title{
   font-size: 110%;
@@ -268,35 +243,6 @@ ul{
   margin-top: -10px;
 }
 
-.project1{
-  content:url("https://s3-us-west-2.amazonaws.com/i.cdpn.io/1317966.jwBygP.5d725d2b-f457-4a74-ac22-bda3665c07a0.png");
-  width: 90%;
-  border: 1px solid #E1E1E1;
-}.project2{
-  content:url("https://s20.postimg.org/ho7i8bsx9/image.png");
-  width: 90%;
-  border: 1px solid #E1E1E1;
-}
-.project3{
-  content:url("https://s20.postimg.org/ohcginm2l/Weather_Widget_screenshot.png");
-  width: 90%;
-  border: 1px solid #E1E1E1;
-}
-.project4{
-  content:url("https://s20.postimg.org/i7clhq2d9/cropped.png");
-  width: 90%;
-  border: 1px solid #E1E1E1;
-}
-.project5{
-  content:url("https://s20.postimg.org/aawpnevrx/Screen_Shot_2017-07-17_at_11.09.52_pm.png");
-  width: 90%;
-  border: 1px solid #E1E1E1;
-}
-.project6{
-  content:url("https://s20.postimg.org/jz5kcjtf1/Screen_Shot_2017-11-01_at_7.27.21_am.png");
-  width: 90%;
-  border: 1px solid #E1E1E1;
-}
 .portfolio-gallery{
   padding-top: 3%;
   text-align: center;
@@ -307,7 +253,11 @@ ul{
   display: inline-block;
   width: 40%;
   margin-top: 50px;
-
+}
+.project{
+    background-size: contain;
+    width: 90%;
+    border: 1px solid #E1E1E1;
 }
 .project:hover {
   opacity: 0.5;
