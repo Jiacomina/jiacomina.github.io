@@ -112,14 +112,16 @@ body{
 }
 .title{
   font-family:'Ek Mukta', sans-serif;
-  font-size: 193.4%;
+  font-size: 193%;
   font-weight: bold;
   width: 100%;
-  letter-spacing: 10px;
+  letter-spacing: 8px;
   margin-bottom: 0px;
 }
 .main-title{
   margin-top: -10px;
+  text-align: left;
+  letter-spacing: 6px;
 }
 .paragraph {
   font-family: '-apple-system', BlinkMacSystemFont,'Open Sans', sans-serif;
